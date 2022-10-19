@@ -1,0 +1,15 @@
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/bin/Debug/net6.0/RodrigueszMRestaurantPicker
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/bin/Debug/net6.0/RodrigueszMRestaurantPicker.deps.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/bin/Debug/net6.0/RodrigueszMRestaurantPicker.runtimeconfig.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/bin/Debug/net6.0/RodrigueszMRestaurantPicker.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/bin/Debug/net6.0/RodrigueszMRestaurantPicker.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/obj/Debug/net6.0/RodrigueszMRestaurantPicker.csproj.AssemblyReference.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/obj/Debug/net6.0/RodrigueszMRestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/obj/Debug/net6.0/RodrigueszMRestaurantPicker.AssemblyInfoInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/obj/Debug/net6.0/RodrigueszMRestaurantPicker.AssemblyInfo.cs
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/obj/Debug/net6.0/RodrigueszMRestaurantPicker.csproj.CoreCompileInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/obj/Debug/net6.0/RodrigueszMRestaurantPicker.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/obj/Debug/net6.0/refint/RodrigueszMRestaurantPicker.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/obj/Debug/net6.0/RodrigueszMRestaurantPicker.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/obj/Debug/net6.0/RodrigueszMRestaurantPicker.genruntimeconfig.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodrigueszMRestaurantPicker/obj/Debug/net6.0/ref/RodrigueszMRestaurantPicker.dll
